@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-burn-love-melody/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Slow Burn Love Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-love-melody/) |
+| **Get License** | [Get License For Slow Burn Love Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-love-melody/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you pull me close
+> A quiet spark that nobody knows
+> I catch my breath when you look my way
+> You give me a feeling that I want to stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
