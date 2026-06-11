@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-burn-love-melody/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Slow Burn Love Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-love-melody/) |
+| **Get License** | [Secure Licensing Rights for Slow Burn Love Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-love-melody/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f3cd9f4b0eb9b7d651eb7078beddd60cefb059d56e3d48ed6b37b51318c33273` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

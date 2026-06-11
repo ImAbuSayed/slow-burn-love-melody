@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Slow Burn Love Melody
+
+This log tracks the cryptographic history and versioning for the song **Slow Burn Love Melody** (slow-burn-love-melody).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T00:24:48.455062 | `v1` | `f3cd9f4b0eb9b7d651eb7078beddd60cefb059d56e3d48ed6b37b51318c33273` | `65fd29e1c60bb953e99be3013bdb8f03d497485077f3ca012b2d25fb6a4debc8` | `2026-06-12_slow-burn-love-melody-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
